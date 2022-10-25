@@ -15,6 +15,7 @@ This module requires [datahelix](https://github.com/finos/datahelix) to be insta
 There are no configuration options.
 
 Input directory for schemas is: ./config/schema/
+
 Output directory for data is: ./data/
 
 ```console
