@@ -1,0 +1,16 @@
+{
+  "name": "regex-sample-generator",
+  "version": "1.0.0",
+  "description": "generate sample code files for testing",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "./scripts/generate.sh"
+  },
+  "author": "Sean Nicholls seannicholls@gmail.com",
+  "license": "Apache-2.0"
+}

@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "name": "username",
+      "type": "string"
+    }
+  ],
+  "constraints": [
+    {
+      "field": "username",
+      "matchingRegex": "[a-zA-Z]{12}"
+    }
+  ]
+}
